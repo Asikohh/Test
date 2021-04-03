@@ -13,7 +13,7 @@ Test Project - to understand the Github Collaboration
    
    **Plan :**
    Creation of new text file and update
-     - File lines should starts with users first letter (Ex: Refer - Sample File.txt)
+     - File lines should starts with users first letter followed by number (Ex: A_01, K_01, K_02, A_02, A_03 ..etc)
      - New File should starts with users first letter and ends with file number (Ex: A_File_001, K_File_001, K_File_002)
 
 
